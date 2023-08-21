@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.19.2",
+    "decimal-js-sdk": "latest",
+    "mongodb": "latest",
+    "telebot": "^1.2.6"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "admins": [123456789],
+"decimal_api": "https://mainnet-gate.decimalchain.com/api",
+"decimal_explorer": "https://mainnet-explorer-api.decimalchain.com/api/",
+"bot_api_key": "API_KEY",
+"seed": "",
+"min_withdraw": 100,
+"ref_levels": {
+    "1": 5,
+    "2": 3,
+    "3": 2
+}
+}
